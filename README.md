@@ -1,0 +1,1 @@
+It is an LLM Model built by Fine-tuning Llama-2-7b model over the dataset Ruhaan04/mini-platypus.
